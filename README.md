@@ -1,2 +1,2 @@
 # miouu
-Personal Websit
+Personal Website
